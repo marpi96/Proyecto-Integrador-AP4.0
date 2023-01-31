@@ -6,3 +6,5 @@ Fuentes:
 -W3Schools
 -Mozilla Developers
 -StackOverflow (questions)
+-IconFinder
+-Random datos generation
